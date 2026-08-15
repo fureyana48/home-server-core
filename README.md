@@ -34,7 +34,7 @@ Home Server Core v1.0
 └── Proxmox VE — ThinkPad W530
     └── Core virtualization host
 
-Core Layer Principle
+```## Core Layer Principle
 
 The Core Layer is treated as the stable foundation of the homelab.
 
