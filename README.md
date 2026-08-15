@@ -33,7 +33,7 @@ Home Server Core v1.0
 │
 └── Proxmox VE — ThinkPad W530
     └── Core virtualization host
-````
+```
 
 ## Core Layer Principle
 
