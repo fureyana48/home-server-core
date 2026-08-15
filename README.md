@@ -1,4 +1,3 @@
-````markdown
 # Home Server Core
 
 **Core Server v1.0 — Portfolio Release**
@@ -321,5 +320,3 @@ The project is intended to serve both as a functional homelab foundation and as 
 ## License
 
 See [LICENSE](LICENSE) for the applicable license.
-
-```
