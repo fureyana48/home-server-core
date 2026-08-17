@@ -1,22 +1,19 @@
 # Changelog
 
-## v1.0 — Core Server Baseline
+All notable infrastructure changes are documented here.
 
-**Status:** COMPLETE / FROZEN
+## [Unreleased]
 
-### Added
+### Planned
+- Expand host-specific technical documentation.
+- Document higher-layer workload conventions.
 
-- Fedora T540p Core documentation
-- Proxmox W530 Core documentation
-- architecture overview
-- hardware inventory
+## Change-Control Requirements
+
+Core releases should include:
+- pre-change audit
+- configuration backup
+- integrity verification
+- implementation
+- post-change validation
 - release documentation
-- Core Layer freeze model
-
-### Deferred
-
-- raw backup publication
-- static IP configuration
-- web-console banner/IP changes
-- server-side GitHub synchronization
-- higher-layer workloads
